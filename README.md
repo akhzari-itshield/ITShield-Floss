@@ -1,8 +1,8 @@
-🛡️ ITShield-Floss
+                                                            🛡️ ITShield-Floss
 
-Advanced String Extraction & Malware Analysis Tool
+                                                Advanced String Extraction & Malware Analysis Tool
 
-A powerful, single-file, GUI + CLI tool for extracting static, stack,and decoded/obfuscated strings from binary files 
+                A powerful, single-file, GUI + CLI tool for extracting static, stack,and decoded/obfuscated strings from binary files 
 
 
 This project is inspired by and builds upon the ideas of FLARE-FLOSS by Mandiant (Google).
