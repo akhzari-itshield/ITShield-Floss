@@ -23,3 +23,5 @@ GUI : python ITShield-Floss.py
 CLI : python ITShield-Floss.py sample [option]
 
 Full option list : python ITShield-Floss.py --help
+
+![alt text](https://github.com/akhzari-itshield/ITShield-Floss/blob/main/ITShield-Floss-Image.png?raw=true)
