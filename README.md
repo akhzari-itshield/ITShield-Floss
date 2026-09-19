@@ -7,17 +7,17 @@
 
 This project is inspired by and builds upon the ideas of FLARE-FLOSS by Mandiant (Google).
 
-    🎯 Confidence scoring for every string (multi-word text bonus, English-frequency check)
-    ⚠️ Packer detection (UPX, Themida, VMProtect, ASPack, …)
-    🔑 Secret/IOC detection: AWS keys, GitHub tokens, private keys, crypto wallets…
-    🔬 Hex context viewer — double-click any result
-    🎯 YARA rule generation from high-confidence strings
-    💾 Session save/load (resume analysis later)
-    🖱️ Drag & drop, live search, sortable columns, type filter
-    ☀️ Clean light-theme GUI + full CLI with --debug / --find
-    🧪 Built-in self-test (--selftest)
+    1-  Confidence scoring for every string (multi-word text bonus, English-frequency check)
+    2 -  Packer detection (UPX, Themida, VMProtect, ASPack, …)
+    3 -  Secret/IOC detection: AWS keys, GitHub tokens, private keys, crypto wallets…
+    4 -  Hex context viewer — double-click any result
+    5 -  YARA rule generation from high-confidence strings
+    6 -  Session save/load (resume analysis later)
+    7 -  Drag & drop, live search, sortable columns, type filter
+    8 -  Clean light-theme GUI + full CLI with --debug / --find
+    9 -  Built-in self-test (--selftest)
     
-🚀 Usage
+ Usage
 
 GUI : python ITShield-Floss.py
 
