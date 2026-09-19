@@ -1,0 +1,5 @@
+numpy>=1.24
+pefile>=2023.2.7
+capstone>=5.0
+unicorn>=2.0.1
+tkinterdnd2>=2.3
