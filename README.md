@@ -19,5 +19,7 @@ This project is inspired by and builds upon the ideas of FLARE-FLOSS by Mandiant
     
 🚀 Usage
 GUI : python ITShield-Floss.py
+
 CLI : python ITShield-Floss.py sample [option]
+
 Full option list : python ITShield-Floss.py --help
