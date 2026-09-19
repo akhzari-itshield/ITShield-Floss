@@ -25,4 +25,4 @@ CLI : python ITShield-Floss.py sample [option]
 
 Full option list : python ITShield-Floss.py --help
 
-![alt text](https://github.com/akhzari-itshield/ITShield-Floss/blob/main/ITShield-Floss-Image.png?raw=true)
+![alt text](https://github.com/akhzari-itshield/ITShield-Floss/blob/main/Floss.png?raw=true)
