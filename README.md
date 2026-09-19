@@ -18,6 +18,7 @@ This project is inspired by and builds upon the ideas of FLARE-FLOSS by Mandiant
     🧪 Built-in self-test (--selftest)
     
 🚀 Usage
+
 GUI : python ITShield-Floss.py
 
 CLI : python ITShield-Floss.py sample [option]
